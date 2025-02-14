@@ -1,0 +1,9 @@
+build
+*.mvcov
+.trace
+
+.DS_STORE
+
+node_modules
+.env
+*.key
